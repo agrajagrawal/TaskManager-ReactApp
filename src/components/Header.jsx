@@ -5,8 +5,9 @@ function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
-        Keeper
+        
+        Task Manager  
+        {/* <HighlightIcon /> */}
       </h1>
     </header>
   );
